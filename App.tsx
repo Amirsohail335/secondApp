@@ -21,7 +21,7 @@ function App() {
  return(
   <SafeAreaView>
   <View>
-    <Text>Hello</Text>
+    <Text>Hi Amir How are you?</Text>
   </View>
 </SafeAreaView>
  )
